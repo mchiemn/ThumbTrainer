@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ThumbTrainer</string>
+
+    <integer-array name="times">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </integer-array>
+</resources>
